@@ -1,0 +1,15 @@
+.metronome {
+    border: 1px solid red;
+    border-radius: 5px;
+    min-width: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: .5em
+}
+
+.display {
+    display: flex;
+
+}
